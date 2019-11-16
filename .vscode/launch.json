@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BinarySearchTree",
+      "request": "launch",
+      "mainClass": "com.uday.algo.BinarySearchTree",
+      "projectName": "java-algo-ds-practise-o1"
+    }
+  ]
+}
