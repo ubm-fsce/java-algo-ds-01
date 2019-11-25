@@ -28,7 +28,7 @@ public class SinglyLinkedList {
 		return dNode;
 	}
 
-	public void displaySinlgyLinkedlist() {
+	public void displaySinglyLinkedList() {
 		System.out.println(" :::: BEGIN Printing SLL First --> Last ");
 		Node cNode = first;
 		while (cNode != null) {

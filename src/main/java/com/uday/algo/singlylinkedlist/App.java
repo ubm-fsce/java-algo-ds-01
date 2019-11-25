@@ -7,6 +7,6 @@ public class App {
     sll.insertFirst(200);
     sll.insertFirst(477);
     sll.insertLast(999);
-    sll.displaySinlgyLinkedlist();
+    sll.displaySinglyLinkedList();
   }
 }
