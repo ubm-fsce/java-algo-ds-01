@@ -2,6 +2,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - App",
+      "request": "launch",
+      "mainClass": "com.uday.singlylinkedlist.App",
+      "projectName": "java-algo-ds-practise-o1"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - LinkedList",
+      "request": "launch",
+      "mainClass": "com.uday.algo.LinkedList",
+      "projectName": "java-algo-ds-practise-o1"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Queue",
+      "request": "launch",
+      "mainClass": "com.uday.algo.Queue",
+      "projectName": "java-algo-ds-practise-o1"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Stack",
+      "request": "launch",
+      "mainClass": "com.uday.algo.Stack",
+      "projectName": "java-algo-ds-practise-o1"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - BinarySearchTree",
       "request": "launch",
       "mainClass": "com.uday.algo.BinarySearchTree",

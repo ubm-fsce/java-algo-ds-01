@@ -1,4 +1,4 @@
-package com.uday.algo;
+package com.uday.algo.stack;
 
 public class Stack {
   int stack[];
