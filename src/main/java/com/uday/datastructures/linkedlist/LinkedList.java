@@ -1,4 +1,4 @@
-package com.uday.algo.linkedlist;
+package com.uday.datastructures.linkedlist;
 
 public class LinkedList {
   public static void main(String[] args) {

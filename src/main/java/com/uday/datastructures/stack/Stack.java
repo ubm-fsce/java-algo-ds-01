@@ -1,4 +1,4 @@
-package com.uday.algo.stack;
+package com.uday.datastructures.stack;
 
 public class Stack {
   int stack[];

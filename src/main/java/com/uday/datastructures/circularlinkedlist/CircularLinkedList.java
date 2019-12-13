@@ -1,4 +1,4 @@
-package com.uday.algo.circularlinkedlist;
+package com.uday.datastructures.circularlinkedlist;
 
 public class CircularLinkedList {
     private Node first;

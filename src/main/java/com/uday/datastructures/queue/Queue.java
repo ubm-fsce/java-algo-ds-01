@@ -1,4 +1,4 @@
-package com.uday.algo.queue;
+package com.uday.datastructures.queue;
 
 public class Queue {
   int maxSize; // initialise with max size

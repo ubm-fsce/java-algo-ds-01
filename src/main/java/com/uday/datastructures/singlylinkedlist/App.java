@@ -1,4 +1,4 @@
-package com.uday.algo.singlylinkedlist;
+package com.uday.datastructures.singlylinkedlist;
 
 public class App {
   public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package com.uday.algo.misceleneous;
+package com.uday.datastructures.misceleneous;
 
 /**
  * Hello world!

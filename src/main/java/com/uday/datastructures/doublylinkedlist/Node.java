@@ -1,4 +1,4 @@
-package com.uday.algo.doublylinkedlist;
+package com.uday.datastructures.doublylinkedlist;
 
 public class Node {
     private int data;

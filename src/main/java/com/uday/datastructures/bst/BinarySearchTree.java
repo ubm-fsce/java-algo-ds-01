@@ -1,4 +1,4 @@
-package com.uday.algo.bst;
+package com.uday.datastructures.bst;
 
 public class BinarySearchTree {
 
