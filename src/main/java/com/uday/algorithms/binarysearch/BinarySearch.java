@@ -5,7 +5,7 @@ public class BinarySearch {
   public static void main(String[] args) {
     System.out.println(binarySearch(new int[] {1,2,3,5,7}, 1));
     System.out.println(binarySearch(new int[] {1,2,3,5,7}, 1));
-   
+    System.out.println(binarySearch(new int[] {1,2,3,5,7}, 1));
 
   }
 
